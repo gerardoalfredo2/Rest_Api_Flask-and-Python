@@ -15,6 +15,7 @@
     <InterpreterVersion>3.5</InterpreterVersion>
     <PythonWsgiHandler>{StartupModule}.wsgi_app</PythonWsgiHandler>
     <UseIISExpress>true</UseIISExpress>
+    <Name>First Flask Application</Name>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
   <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
