@@ -1,0 +1,13 @@
+D:\Trainings\Rest_Api_Flask and Python\Exercises\FIrst Flask Application\bin\Microsoft.PythonTools.WebRole.dll
+D:\Trainings\Rest_Api_Flask and Python\Exercises\FIrst Flask Application\obj\Debug\attach_server.py
+D:\Trainings\Rest_Api_Flask and Python\Exercises\FIrst Flask Application\obj\Debug\visualstudio_py_debugger.py
+D:\Trainings\Rest_Api_Flask and Python\Exercises\FIrst Flask Application\obj\Debug\visualstudio_py_repl.py
+D:\Trainings\Rest_Api_Flask and Python\Exercises\FIrst Flask Application\obj\Debug\visualstudio_py_util.py
+D:\Trainings\Rest_Api_Flask and Python\Exercises\FIrst Flask Application\obj\Debug\__init__.py
+D:\Trainings\Rest_Api_Flask and Python\Exercises\FIrst Flask Application\obj\Debug\__main__.py
+D:\Trainings\Rest_Api_Flask and Python\Exercises\FIrst Flask Application\bin\AzureSetup.cfg
+D:\Trainings\Rest_Api_Flask and Python\Exercises\FIrst Flask Application\bin\Microsoft.PythonTools.AzureSetup.exe
+D:\Trainings\Rest_Api_Flask and Python\Exercises\FIrst Flask Application\bin\Microsoft.PythonTools.AzureSetup.exe.config
+D:\Trainings\Rest_Api_Flask and Python\Exercises\FIrst Flask Application\bin\wfastcgi.py
+D:\Trainings\Rest_Api_Flask and Python\Exercises\FIrst Flask Application\obj\Debug\web.config
+D:\Trainings\Rest_Api_Flask and Python\Exercises\FIrst Flask Application\obj\Debug\web.debug.config
