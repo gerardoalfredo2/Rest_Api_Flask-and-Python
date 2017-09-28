@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{9a964a48-6c95-4060-a48b-06b5a1388219}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>app.py</StartupFile>
+    <StartupFile>Examples\Example2.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -26,9 +26,19 @@
     <InterpreterReference Include="{9a7a9026-48c1-4688-9d5d-e5699d47d074}\3.5" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="app.py">
+    <Compile Include="Examples\Example1.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Examples\Example2.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Examples\" />
+    <Folder Include="Examples\templates\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Examples\templates\index.html" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.Web.targets" />
   <ProjectExtensions>
