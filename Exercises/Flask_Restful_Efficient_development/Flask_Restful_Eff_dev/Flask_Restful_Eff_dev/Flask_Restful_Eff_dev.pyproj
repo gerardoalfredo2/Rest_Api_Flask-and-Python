@@ -25,6 +25,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Code\app.py" />
+    <Compile Include="Code\user.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Code\security.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
